@@ -1,0 +1,575 @@
+.search_1 {
+  height: 100%;
+  background-size: cover;
+  background: #1C1C1C;
+  width: 100%;
+  display: none;
+}
+
+.scroll {
+  height: 2480px;
+  background-size: auto;
+  background: #1C1C1C;
+  width: 100%;
+}
+
+.search_active_more {
+  height: 100%;
+  background-size: cover;
+  background: #1C1C1C;
+  width: 100%;
+  display: none;
+}
+
+.search_not_found {
+  height: 2480px;
+  background-size: cover;
+  background: #1C1C1C;
+  width: 100%;
+  display: none;
+}
+
+.search_active {
+  height: 100%;
+  background-size: cover;
+  background: #1C1C1C;
+  width: 100%;
+  display: none;
+}
+
+.search_live {
+  height: 2480px;
+  background-size: auto;
+  background: #1C1C1C;
+  width: 100%;
+  display: none;
+}
+
+.vector2 {
+  position: fixed;
+  left: 1315.76px;
+  top: 19.76px;
+}
+
+.Tom2 {
+  position: absolute;
+  width: 446px;
+  height: 36px;
+  left: 142px;
+  top: 188px;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+  right: 854px;
+}
+
+.vvod3 {
+  position: absolute;
+  left: 244px;
+  top: 170px;
+}
+
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.vector {
+  position: absolute;
+  left: 1320.76px;
+  top: 185.76px;
+}
+
+.logo {
+  position: absolute;
+  width: 148px;
+  height: 28px;
+  left: 646px;
+  top: 80px;
+}
+
+.rectangle2 {
+  position: absolute;
+  width: 628px;
+  height: 2px;
+  left: 406px;
+  top: 234px;
+}
+
+.search_active.rectangle2 {
+  position: absolute;
+  width: 1280px;
+  height: 2px;
+  left: 80px;
+  top: 234px;
+}
+
+.union {
+  position: absolute;
+  width: 34px;
+  height: 33px;
+  left: 477px;
+  top: 183px;
+  right: 929px;
+  bottom: 504px;
+}
+
+.search {
+  position: absolute;
+  width: 446px;
+  height: 36px;
+  left: 525px;
+  top: 180px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+}
+
+.company {
+  position: absolute;
+  height: 15px;
+  left: 665px;
+  right: 631px;
+  top: 689px;
+}
+
+.rectangle_search_active {
+  position: absolute;
+  width: 1280px;
+  height: 2px;
+  left: 80px;
+  top: 226px;
+  bottom: 1375px;
+  right: 80px;
+}
+
+.union_search_active {
+  position: absolute;
+  width: 34px;
+  height: 33px;
+  left: 88px;
+  top: 182px;
+}
+
+.logo_search_active {
+  position: absolute;
+  width: 148px;
+  height: 28px;
+  left: 646px;
+  top: 80px;
+}
+
+.search_search_active {
+  position: absolute;
+  width: 446px;
+  height: 36px;
+  left: 142px;
+  top: 188px;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+  right: 854px;
+}
+
+.gran_search_active {
+  position: absolute;
+  left: 80px;
+  top: 260px;
+}
+
+.how_i_met {
+  position: absolute;
+  left: 96px;
+  top: 271px;
+}
+
+.gran2_search_active {
+  position: absolute;
+  left: 286px;
+  top: 260px;
+}
+
+.gran3_search_active {
+  position: absolute;
+  left: 391px;
+  top: 260px;
+}
+
+.gop-stop {
+  position: absolute;
+  top: 270px;
+  left: 303px;
+}
+
+.not_f {
+  position: absolute;
+  top: 396px;
+  left: 80px;
+}
+
+.drozd {
+  position: absolute;
+  top: 271px;
+  left: 408px;
+}
+
+.vvod {
+  position: absolute;
+  top: 170px;
+  left: 141px;
+  width: 1px;
+  height: 56px;
+  right: 1298px;
+}
+
+
+.bela {
+  position: absolute;
+  top: 260px;
+  left: 553px;
+}
+
+.three {
+  position: absolute;
+  top: 260px;
+  left: 800px;
+}
+
+.st {
+  position: absolute;
+  top: 260px;
+  left: 937px;
+
+}
+
+.sleep {
+  position: absolute;
+  top: 304px;
+  left: 80px;
+}
+
+.war {
+  position: absolute;
+  top: 304px;
+  left: 317px;
+}
+
+.wild {
+  position: absolute;
+  top: 304px;
+  left: 456px;
+}
+
+
+.films {
+  position: absolute;
+  width: 309px;
+  height: 48px;
+  left: 80px;
+  top: 396px;
+}
+
+.forest {
+  position: relative;
+  left: 80px;
+  top: 480px;
+  width: 302px;
+  height: 454px;
+}
+
+.rayan {
+  position: absolute;
+  left: 406px;
+  top: 480px;
+  width: 302px;
+  height: 454px;
+}
+
+.ap13 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 732px;
+  top: 480px;
+}
+
+.inferno {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 1058px;
+  top: 480px;
+}
+
+.bridge {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 80px;
+  top: 958px;
+}
+
+.emp {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 406px;
+  top: 958px;
+}
+
+.emp1 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  top: 958px;
+  left: 732px;
+}
+
+.emp2 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  top: 958px;
+  left: 1058px;
+}
+
+.emp3 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  top: 1436px;
+  left: 80px;
+}
+
+.emp4 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  top: 1436px;
+  left: 732px;
+}
+
+.emp5 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  top: 1436px;
+  left: 1058px;
+}
+
+.emp6 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  top: 1436px;
+  left: 406px;
+}
+
+.emp7 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 80px;
+  top: 1914px;
+}
+
+.emp8 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 406px;
+  top: 1914px;
+}
+
+.emp9 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 732px;
+  top: 1914px;
+}
+
+.Tom {
+  position: absolute;
+  width: 446px;
+  height: 36px;
+  left: 142px;
+  top: 188px;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+  right: 854px;
+}
+
+.vvod2 {
+  position: absolute;
+  top: 170px;
+  left: 270px;
+  width: 1px;
+  height: 56px;
+  right: 1298px;
+}
+
+.company2 {
+  position: absolute;
+  top: 2448px;
+  left: 648px;
+}
+
+
+.forest2 {
+  position: relative;
+  left: 80px;
+  top: -199px;
+  width: 302px;
+  height: 454px;
+}
+
+.rayan2 {
+  position: absolute;
+  left: 406px;
+  top: -199px;
+  width: 302px;
+  height: 454px;
+}
+
+.ap132 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 732px;
+  top: -199px;
+}
+
+.inferno2 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 1058px;
+  top: -199px;
+}
+
+.miracle {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 406px;
+  top: 279px;
+}
+
+.bridge1 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 80px;
+  top: 279px;
+}
+
+.e10 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 732px;
+  top: 279px;
+}
+
+.e11 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 80px;
+  top: 757px;
+}
+
+.e12 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 406px;
+  top: 757px;
+}
+
+.e13 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 732px;
+  top: 757px;
+}
+
+.e14 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 1058px;
+  top: 757px;
+}
+
+.e15 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 80px;
+  top: 1235px;
+}
+
+.e16 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 406px;
+  top: 1235px;
+}
+
+.e17 {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 732px;
+  top: 1235px;
+}
+
+.term {
+  position: absolute;
+  width: 302px;
+  height: 454px;
+  left: 1058px;
+  top: 279px;
+}
+
+.rect2 {
+  position: fixed;
+  width: 1440px;
+  height: 74px;
+  left: 0px;
+  top: 0px;
+  backdrop-filter: blur(2px);
+}
+
+.union1 {
+  position: absolute;
+  width: 34px;
+  height: 33px;
+  left: 88px;
+  top: 20px;
+}
+
+.rect {
+  position: fixed;
+  width: 1500px;
+  height: 74px;
+  left: -4px;
+  top: 0px;
+}
+.scroll1 {
+  position: absolute;
+  height: 15px;
+  left: 648px;
+  right: 648px;
+  top: 2448px;
+}
+
